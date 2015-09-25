@@ -1,4 +1,5 @@
 deep learning experiment in python.
+uses theano
 
 Now focusing on
 	-Deep neural nets
